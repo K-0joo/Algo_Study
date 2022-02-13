@@ -1,4 +1,4 @@
-#오타때문에 많이 틀림 
+# 오타때문에 많이 틀림 
 
 def Speak(n,count):
     for i in range(0,count):
