@@ -19,7 +19,6 @@ public class Main{
         int Min = nums[0];
         int num = nums[1];
         
-        
         System.out.println(Min + " " + num + " " + Max);
         
     }
